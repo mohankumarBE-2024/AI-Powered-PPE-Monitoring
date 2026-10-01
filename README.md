@@ -1,4 +1,4 @@
-# Final-Project: Intelliguard AI-Powered PPE Compliance Monitoring System 
+# Intelliguard AI-Powered PPE Compliance Monitoring System 
 
 ## Overview
 This project focuses on monitoring **Personal Protective Equipment (PPE)** compliance in manufacturing environments using Computer Vision and Artificial Intelligence. The system detects whether workers are wearing the required safety equipment such as helmets, gloves, safety vests, and masks while identifying safety violations in real time.
